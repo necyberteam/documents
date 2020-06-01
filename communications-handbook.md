@@ -134,7 +134,7 @@ If you believe that a person's access to a repository or the GitHub organization
 
 [US-RSE Twitter account (@us_rse)](twitter.com/us_rse); #socialmedia channel on Slack
 
-The master password for the account should not be shared to individual people who may post to the account; instead, give access to individuals through Tweetdeck. Before giving an individual member access, please review their personal tweets to look out for any red flags that may need to be discussed, and ensure that they have read both [US-RSE Twitter Guidelines]() and our [Code of Conduct](https://us-rse.org/code-of-conduct/) and agree to both.
+The master password for the account should not be shared to individual people who may post to the account; instead, give access to individuals through Tweetdeck. Before giving an individual member access, please review their personal tweets to look out for any red flags that may need to be discussed, and ensure that they have read both [US-RSE Twitter Guidelines](https://docs.google.com/document/d/1JhQh0PhiXjrtkJKN9z6TGTXGdFI100t95oFyp-o5oOo/edit?usp=sharing) and our [Code of Conduct](https://us-rse.org/code-of-conduct/) and agree to both.
 
 General guidelines for what content should be posted:
 
@@ -148,7 +148,7 @@ The account can be used for other purposes, such as to promote events or resourc
 
 Remove access to the account once individuals have either completed the task/time period for which they were granted access or are no longer part of the social media committee.
 
-[US-RSE Twitter Guidelines]() is intended for sharing with members of the social media committee or volunteer tweeters.
+[US-RSE Twitter Guidelines](https://docs.google.com/document/d/1JhQh0PhiXjrtkJKN9z6TGTXGdFI100t95oFyp-o5oOo/edit?usp=sharing) is intended for sharing with anyone who will be tweeting from the account.
 
 
 
