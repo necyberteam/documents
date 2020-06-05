@@ -10,7 +10,7 @@ To help US-RSE leaders and volunteers distributing community information make us
 
 ### Related Documents
 
-* [How to Share with the Community]() - for members to help decide where and how to share information, projects, and resources with the community
+* [How to Share with the Community](https://us-rse.org/share) - for members to help decide where and how to share information, projects, and resources with the community
 * [Get Involved](https://us-rse.org/get-involved/) - ideas for members who want to get involved by creating content, distributing content on communication channels, joining committees, taking leadership roles, etc.
 * [Code of Conduct](code-of-conduct.md)
 
