@@ -12,7 +12,7 @@ To help US-RSE leaders and volunteers distributing community information make us
 
 * [How to Share with the Community]() - for members to help decide where and how to share information, projects, and resources with the community
 * [Get Involved](https://us-rse.org/get-involved/) - ideas for members who want to get involved by creating content, distributing content on communication channels, joining committees, taking leadership roles, etc.
-* [Code of Conduct](https://us-rse.org/code-of-conduct/)
+* [Code of Conduct](code-of-conduct.md)
 
 ### Status
 
@@ -26,7 +26,7 @@ This handbook includes guidelines to help ensure that websites, social media pos
 
 * Align with the goals of the Association,
 * Are sustainable, and 
-* Align with the [Code of Conduct](https://us-rse.org/code-of-conduct/). 
+* Align with the [Code of Conduct](code-of-conduct.md). 
 
 The US-RSE is a community driven organization.  When making decisions about using communication platforms and developing new content, for most content areas, three levels of groups may be involved:
 * Minor issues/first pass: Subgroups of individuals as needed for individual sections, websites, changes, etc.
@@ -134,7 +134,7 @@ If you believe that a person's access to a repository or the GitHub organization
 
 [US-RSE Twitter account (@us_rse)](twitter.com/us_rse); #socialmedia channel on Slack
 
-The master password for the account should not be shared to individual people who may post to the account; instead, give access to individuals through Tweetdeck. Before giving an individual member access, please review their personal tweets to look out for any red flags that may need to be discussed, and ensure that they have read both [US-RSE Twitter Guidelines](https://docs.google.com/document/d/1JhQh0PhiXjrtkJKN9z6TGTXGdFI100t95oFyp-o5oOo/edit?usp=sharing) and our [Code of Conduct](https://us-rse.org/code-of-conduct/) and agree to both.
+The master password for the account should not be shared to individual people who may post to the account; instead, give access to individuals through Tweetdeck. Before giving an individual member access, please review their personal tweets to look out for any red flags that may need to be discussed, and ensure that they have read both [US-RSE Twitter Guidelines](https://docs.google.com/document/d/1JhQh0PhiXjrtkJKN9z6TGTXGdFI100t95oFyp-o5oOo/edit?usp=sharing) and our [Code of Conduct](code-of-conduct.md) and agree to both.
 
 General guidelines for what content should be posted:
 
