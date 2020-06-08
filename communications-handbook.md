@@ -122,7 +122,7 @@ Purpose:
 * Host US-RSE documents and artefacts as needed/appropriate
 * Provide repos for US-RSE sponsored activities
 
-Repositories under the US-RSE organizational GitHub are publically viewable and branded with the US-RSE logo, making them representative of the organization as a whole. Be mindful of this fact and ensure that any repositories here follow the same guidelines as content in the us-rse.org domain. New repositories should get agreement from the website committee, even if the repo isn't for the/a website. 
+Repositories under the US-RSE organizational GitHub are publically viewable and branded with the US-RSE logo, making them representative of the organization as a whole. Be mindful of this fact and ensure that any repositories here follow the same guidelines as content in the us-rse.org domain. New repositories should get agreement from the website or Steering committee, depending on whether the repository is part of the website. 
 
 US-RSE members are encouraged to use their own personal accounts for new ideas/proposals or things under development.  The US-RSE GitHub organization is for activities of the US-RSE association rather than a collection of activities of members of the US-RSE association.
 
