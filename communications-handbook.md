@@ -119,7 +119,7 @@ https://github.com/usrse
 Purpose: 
 
 * Host the US-RSE website
-* Host US-RSE documents and artefacts as needed/appropriate
+* Host US-RSE documents and artifacts as needed/appropriate
 * Provide repos for US-RSE sponsored activities
 
 Repositories under the US-RSE organizational GitHub are publically viewable and branded with the US-RSE logo, making them representative of the organization as a whole. Be mindful of this fact and ensure that any repositories here follow the same guidelines as content in the us-rse.org domain. New repositories should get agreement from the website or Steering committee, depending on whether the repository is part of the website. 
