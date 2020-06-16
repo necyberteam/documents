@@ -34,7 +34,7 @@ participation in activities (in person or online), or expulsion from the US-RSE 
 ## Standards for Behavior
 
 All communication should be appropriate for a professional audience including people of many different backgrounds. Please always be
-kind and courteous. There’s never a need to be mean, rude, or disrespectful. Thank you for helping make this a welcoming, friendly
+kind and courteous. There is never a need to be mean, rude, or disrespectful. Thank you for helping make this a welcoming, friendly
 community for all.
 
 We, the members of the US-RSE Association, strive to:
