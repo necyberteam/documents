@@ -105,7 +105,7 @@ Large changes to the website including the creation of a new site, platform, sub
 Distribution lists/groups: 
 
 * All US-RSE members are added to the announce@us-rse.org email list.  This is the list to be used for all important/official communications to the community.  Members of the Steering Committee can send to the list, but communications should generally come from the overall Steering Committee instead of individual members.
-* The contact@us-rse.org email is the main address for people to contact US-RSE leadership.  It is a google group that includes all of the Steering Committee members.
+* contact@us-rse.org is the main address for people to contact US-RSE leadership.  It is a google group that includes all of the Steering Committee members.
 * Discussion email lists can be created under the GSuite account, but members should opt into such lists, not be subscribed automatically.  
 * US-RSE committee leaders, working group chairs, etc. can request discussion or distribution email groups as needed for US-RSE activities.
 
