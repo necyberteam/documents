@@ -154,7 +154,7 @@ three (3) US-RSE members as participants.
 
 ## Changes to Governance
 
-Minor revisions to this document can be made with the approval of at least two thirds (⅔) of the current
+Minor revisions to this document can be made with the approval of at least two-thirds (⅔) of the current
 steering committee members. Major changes to the governance structure or this document will require
 a vote of the membership directly.
 
