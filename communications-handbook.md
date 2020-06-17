@@ -58,7 +58,7 @@ When creating an account on behalf of the organization with a service or site, u
 
 Official logo files can be found in the logo repository in the organizational GitHub: https://github.com/USRSE/logo. Logos from this repository should be used whenever a logo is needed. Variations in size or file format may be created from the source Adobe Illustrator files. Proposals for changes to the logo (colors, text, elements, etc.) or variants of the logo for specific uses should be submitted as a Pull Request. Agreement must be obtained from the Steering Committee before the PR is accepted or rejected. 
 
-Use of the logo implies organizational endorsement of whatever the logo is included on, even if that wasn't the intent.  Before the logo is used, please ensure there is consensus from a relevant committee (e.g. website, social) or the Steering Committee that use of the logo is appropriate. 
+Use of the logo implies organizational endorsement of whatever the logo is included on, even if that wasn't the intent.  Please do not use the logo to advertise or brand events or products that are not endorsed by the US-RSE.  When in doubt, please contact the Steering Committee.
 
 
 # Communication Channels
