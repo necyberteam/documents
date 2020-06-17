@@ -90,7 +90,7 @@ Purpose:
 * Conduct the business of the association
 * Host the main organizational website 
 * Host information related to association events and activities
-* Organizational email (run through a GSuite account)
+* Enable organizational email (run through a GSuite account)
 
 ### Website
 
