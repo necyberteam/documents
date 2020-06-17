@@ -44,7 +44,7 @@ This document lays out general policies for online content that have been encoun
 When referring to the organization:
 
 * US-RSE Association, US Research Software Engineer Association
-* US-RSE for short/abbreviation if desired after one of the above is used
+* US-RSE as a shorter version if desired after one of the above is used
 * US-RSE as an adjective/possessive: US-RSE website, US-RSE Steering Committee
 
 ## Organizational account administration
@@ -149,7 +149,6 @@ The account can be used for other purposes, such as to promote events or resourc
 Remove access to the account once individuals have either completed the task/time period for which they were granted access or are no longer part of the social media committee.
 
 [US-RSE Twitter Guidelines](https://docs.google.com/document/d/1JhQh0PhiXjrtkJKN9z6TGTXGdFI100t95oFyp-o5oOo/edit?usp=sharing) is intended for sharing with anyone who will be tweeting from the account.
-
 
 
 
