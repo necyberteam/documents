@@ -77,7 +77,7 @@ Slack is currently the primary channel of communication with US-RSE members.  Th
 
 All US-RSE members should be invited to Slack.  New US-RSE members should be asked to join via [the link](https://forms.gle/CRsH7sKAk3UvZJfB9) on the main page of us-rse.org instead of only being invited to the Slack workspace so that there's a record of them and their email address is added to the list.  
 
-Members can create (and archive) channels, can create custom emojis, and do other Slack things that are part of the default settings.  The guideline is to be permissive with what members can do in the workspace until there is a need to implement tighter permissions to 1) enforce the code of conduct, or 2) manage the logistics of a growing membership list.  
+Members can create (and archive) channels, can create custom emojis, and do other Slack things that are part of the default settings.  Our intention is to be permissive regarding what members can do in the workspace until there is a need to implement tighter permissions to 1) enforce the code of conduct, or 2) manage the logistics of a growing membership list.  
 
 
 ## us-rse.org Domain
@@ -149,5 +149,4 @@ The account can be used for other purposes, such as to promote events or resourc
 Remove access to the account once individuals have either completed the task/time period for which they were granted access or are no longer part of the social media committee.
 
 [US-RSE Twitter Guidelines](https://docs.google.com/document/d/1JhQh0PhiXjrtkJKN9z6TGTXGdFI100t95oFyp-o5oOo/edit?usp=sharing) is intended for sharing with anyone who will be tweeting from the account.
-
 
