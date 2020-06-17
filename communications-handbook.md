@@ -142,7 +142,7 @@ General guidelines for what content should be posted:
 * Tweeting from events where US-RSE members are in attendance
 * Retweeting/liking appropriate tweets from members
 * Sharing information of general interest to our membership, including but not limited to job postings
-* Things promoting RSEs
+* Tweeting things promoting RSEs
 
 The account can be used for other purposes, such as to promote events or resources or engage with the community or individual members, but other activity should be discussed with and approved by the social media committee on Slack.  As with other activities, major initiatives should be brought to the attention of the Steering Committee. 
 
