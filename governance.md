@@ -24,7 +24,7 @@ and communications.
 
 ### Membership
 
-Membership is open to anyone who supports the mission of the Association and who agrees to abide by
+Membership is open to anyone who supports the mission of the US-RSE Association and who agrees to abide by
 the US-RSE Association Code of Conduct. As stated in our Code of Conduct, we welcome and encourage
 members regardless of gender, gender identity and expression, sexual orientation, disability,
 physical appearance, body size, race, age, religion, or national and ethnic origin.
@@ -68,7 +68,7 @@ The Steering Committee has the following roles:
 The Steering Committee strives for consensus in its decisions. In the case of a dispute or argument
 within the community, a majority vote of all of the Steering Committee members will result in a
 final decision. In the event of a tie, the Steering Committee chair will cast the deciding vote.  At
-all Committee meetings, quorum is at least one half of the members.
+all Committee meetings, a quorum is at least one half of the members.
 
 ### Steering Committee Elections and Terms
 
@@ -104,7 +104,7 @@ Chair or another Steering Committee member to do so.
 
 In the event of the absence of the Chair, the Vice-Chair will preside at meetings. The Vice-Chair
 will be responsible for ensuring that the bi-monthly newsletter will be sent out.  In addition, the
-Vice-Chair will prepare an annual report of Association activities.
+Vice-Chair will annually prepare a report of Association activities in the past year.
 
 #### Election Chair
 
@@ -143,7 +143,7 @@ the seat shall remain open until the end of the seat's term.
 ## Committees, Working Groups, and Community Involvement
 
 Organizational functions of the US-RSE Association will be managed by standing committees that may
-consist of one or more members of the Steering Committee and interested members and participants in
+consist of one or more members of the Steering Committee and interested members of and participants in
 the Association. These organizational activities include communications (website, social media,
 etc.), conference planning, and others to be determined by the Steering Committee.
 
@@ -154,8 +154,8 @@ three (3) US-RSE members as participants.
 
 ## Changes to Governance
 
-Minor revisions to this document can be made with the approval of at least two thirds of the current
-steering committee members. Major changes to the governance structure or this document, will require
+Minor revisions to this document can be made with the approval of at least two thirds (⅔) of the current
+steering committee members. Major changes to the governance structure or this document will require
 a vote of the membership directly.
 
 ## Ratification
@@ -169,7 +169,6 @@ XX, 2020:
 * Sandra Gesing (vice-chair)
 * Chris Hill
 * Daniel S. Katz
-* Christina Maimone
+* Christina Maimone (election chair)
 * Lance Parsons
 * Jordan Perr-Sauer (secretary)
-
