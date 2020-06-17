@@ -94,7 +94,7 @@ Purpose:
 
 ### Website
 
-Hosted via a GitHub repo and site: https://github.com/USRSE/usrse.github.io; #website channel on Slack
+Content hosted in a GitHub repo and site: https://github.com/USRSE/usrse.github.io; discussion via #website channel on Slack
 
 Guidelines, procedures, etc. for the managing and updating the website are determined by the website committee and documented in the GitHub repo. The current guidelines for incremental changes require the use of a PR and a review of the PR. The guidelines are documented here  https://github.com/USRSE/usrse.github.io/blob/master/.github/CONTRIBUTING.md.  
 
@@ -149,4 +149,3 @@ The account can be used for other purposes, such as to promote events or resourc
 Remove access to the account once individuals have either completed the task/time period for which they were granted access or are no longer part of the social media committee.
 
 [US-RSE Twitter Guidelines](https://docs.google.com/document/d/1JhQh0PhiXjrtkJKN9z6TGTXGdFI100t95oFyp-o5oOo/edit?usp=sharing) is intended for sharing with anyone who will be tweeting from the account.
-
