@@ -3,7 +3,6 @@
 ## Membership and Governance
 
 Date: June XX, 2020
-Authors: The founding members of the US-RSE Association Steering Committee
 
 ### Organizational Mission
 
@@ -161,14 +160,5 @@ a vote of the membership directly.
 ## Ratification
 
 This document was ratified by the following members of the First US-RSE Steering Committee on June
-XX, 2020:
+XX, 2020.
 
-* Jeffrey C. Carver
-* Ian Cosden (chair)
-* Charles Ferenbaugh
-* Sandra Gesing (vice-chair)
-* Chris Hill
-* Daniel S. Katz
-* Christina Maimone (election chair)
-* Lance Parsons
-* Jordan Perr-Sauer (secretary)
