@@ -96,14 +96,15 @@ the Steering Committee.
 
 #### Chair
 
-The Chair will set the agenda and preside over Steering Committee meetings or arrange for the Vice
+The Chair will set the agenda and preside over Steering Committee meetings or arrange for the Vice-
 Chair or another Steering Committee member to do so.
 
 #### Vice-Chair
 
 In the event of the absence of the Chair, the Vice-Chair will preside at meetings. The Vice-Chair
-will be responsible for ensuring that the bi-monthly newsletter will be sent out.  In addition, the
-Vice-Chair will annually prepare a report of Association activities in the past year.
+will be responsible for ensuring the community is kept informed of Association activities through
+regular newsletters, social media posts, etc. In addition, the Vice-Chair will annually prepare a
+report of Association activities in the past year.
 
 #### Election Chair
 
