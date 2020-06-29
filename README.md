@@ -8,6 +8,10 @@ Whenever possible, to help ensure current versions of documents are referenced, 
 
 ### Current Documents
 
+
+**Governance**
+* [US-RSE Governance](governance.md)
+
 **General Interest**
 
 * [Code of Conduct](code-of-conduct.md)
@@ -15,6 +19,7 @@ Whenever possible, to help ensure current versions of documents are referenced, 
 **Operations**
 
 * [Communications Handbook](communications-handbook.md)
+
 
 ## Procedures
 
