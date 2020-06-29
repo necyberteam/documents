@@ -2,7 +2,7 @@
 
 ## Membership and Governance
 
-Date: June XX, 2020
+Date: June 29, 2020
 
 ### Organizational Mission
 
@@ -161,5 +161,4 @@ a vote of the membership directly.
 ## Ratification
 
 This document was ratified by the following members of the First US-RSE Steering Committee on June
-XX, 2020.
-
+29, 2020.
