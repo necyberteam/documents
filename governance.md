@@ -115,7 +115,7 @@ year.
 
 #### Treasurer
 
-The Treasurer will be responsible for the finances of US-RSE Association. The Treasurer will present an
+The Treasurer will be responsible for the finances of the US-RSE Association. The Treasurer will present an
 overall budget for approval by the Steering Committee in advance of the Annual General Meeting, and
 then present this budget to the US-RSE membership in the Annual General Meeting.
 The Treasurer additionally has the authority to authorize spending (as previously approved in the budget)
