@@ -2,7 +2,7 @@
 
 ## Membership and Governance
 
-Date: June 29, 2020
+Date: April 30, 2021
 
 ### Organizational Mission
 
@@ -90,7 +90,7 @@ available.
 
 ### Steering Committee Officers
 
-Officers consist of a Chair, a Vice-Chair, Election Chair, and a Secretary, elected by the Steering
+Officers consist of a Chair, a Vice-Chair, an Election Chair, a Treasurer, and a Secretary, elected by the Steering
 Committee. Officer elections will be held at the meeting following the election of new members to
 the Steering Committee.
 
@@ -112,6 +112,14 @@ The Election Chair will be responsible for collecting nominations for Steering C
 running such elections, and running other votes of the membership as required. The Election Chair
 will be filled by a Steering Committee member in the first year of their term for a duration of 1
 year.
+
+#### Treasurer
+
+The Treasurer will be responsible for the finances of US-RSE Association. The Treasurer will present an
+overall budget for approval by the Steering Committee in advance of the Annual General Meeting, and
+then present this budget to the US-RSE membership in the Annual General Meeting.
+The Treasurer additionally has the authority to authorize spending (as previously approved in the budget)
+of US-RSE funds held by our Fiscal Sponsor, as do the Chair and Vice-Chair.
 
 #### Secretary
 
@@ -160,5 +168,29 @@ a vote of the membership directly.
 
 ## Ratification
 
-This document was ratified by the following members of the First US-RSE Steering Committee on June
-29, 2020.
+This document, adding the treasurer role, was ratified by the following members of the US-RSE Steering Committee
+on April 30, 2021:
+
+* Jeff Carver, University of Alabama
+* Ian Cosden, Princeton University
+* Julia Damerow, Arizona State University
+* Charles Ferenbaugh, Los Alamos National Laboratory
+* Sandra Gesing, University of Notre Dame
+* Chris Hill, MIT
+* Daniel S. Katz, University of Illinois at Urbana-Champaign
+* Christina Maimone, Northwestern University
+* Lance Parsons, Princeton University
+
+
+The previous (and original) version of this document was ratified by the following members of the First US-RSE Steering Committee on June
+29, 2020:
+
+* Jeff Carver, University of Alabama
+* Ian Cosden, Princeton University
+* Charles Ferenbaugh, Los Alamos National Laboratory
+* Sandra Gesing, University of Notre Dame
+* Chris Hill, MIT
+* Daniel S. Katz, University of Illinois at Urbana-Champaign
+* Christina Maimone, Northwestern University
+* Lance Parsons, Princeton University
+* Jordan Perr-Sauer, National Renewable Energy Laboratory
