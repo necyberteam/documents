@@ -2,7 +2,7 @@
 
 ## Membership and Governance
 
-Date: April 30, 2021
+Date: April 16, 2021
 
 ### Organizational Mission
 
