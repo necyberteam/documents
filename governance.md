@@ -169,7 +169,7 @@ a vote of the membership directly.
 ## Ratification
 
 This document, adding the treasurer role, was ratified by the following members of the US-RSE Steering Committee
-on April 30, 2021:
+on April 16, 2021:
 
 * Jeff Carver, University of Alabama
 * Ian Cosden, Princeton University
