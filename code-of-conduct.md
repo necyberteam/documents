@@ -47,7 +47,7 @@ people feel uncomfortable or threatened is not a productive one.
 
 ## Unacceptable Behavior
 
-We, the members of the US-RSE Association, are committed to making participation in this community a harassment-free experience.
+We, the members of Connect.Cyberinfrastructure, are committed to making participation in this community a harassment-free experience.
 
 We will not accept harassment or other exclusionary behaviors, such as:
 * The use of sexualized language or imagery  
@@ -93,7 +93,7 @@ someone in distress, or violations of this code of conduct, even if they seem in
 ### How to Submit a Report
 If you feel your safety is in jeopardy or the situation is an emergency, contact local law enforcement before making a report to Connect.Cyberinfrastructure. (In the U.S., dial 911.)
 
-Connect.Cyberinfrastructure is committed to promptly addressing any reported issues. If you have experienced or witnessed behavior that violates Connect.Cyberinfrastructure Code of Conduct, please send an email to contact@us-rse.org. These emails are sent to the Connect.Cyberinfrastructure Steering Committee.
+Connect.Cyberinfrastructure is committed to promptly addressing any reported issues. If you have experienced or witnessed behavior that violates Connect.Cyberinfrastructure Code of Conduct, please send an email to the steering committee, Campus Champions staff, or by using the [online form](https://campuschampionsdev.wpi.edu/form/issue). 
 
 
 ## License
